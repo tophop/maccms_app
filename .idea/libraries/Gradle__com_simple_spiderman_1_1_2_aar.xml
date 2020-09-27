@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.simple:spiderman:1.1.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d0cd1238aea628e6075e85dd9c03cc03/spiderman-1.1.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d0cd1238aea628e6075e85dd9c03cc03/spiderman-1.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d0cd1238aea628e6075e85dd9c03cc03/spiderman-1.1.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.simple/spiderman/1.1.2/798c4555d818f08998742cacbc6db442c4cf1be2/spiderman-1.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.simple/spiderman/1.1.2/d01d61fe439626a4beae6de04ec9d63744a0bcf8/spiderman-1.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

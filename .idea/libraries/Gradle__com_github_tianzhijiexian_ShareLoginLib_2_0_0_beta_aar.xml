@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.tianzhijiexian:ShareLoginLib:2.0.0-beta@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4a16262a6dbbe5632e6970f8221ba3e1/ShareLoginLib-2.0.0-beta/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4a16262a6dbbe5632e6970f8221ba3e1/ShareLoginLib-2.0.0-beta/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4a16262a6dbbe5632e6970f8221ba3e1/ShareLoginLib-2.0.0-beta/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4a16262a6dbbe5632e6970f8221ba3e1/ShareLoginLib-2.0.0-beta/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4a16262a6dbbe5632e6970f8221ba3e1/ShareLoginLib-2.0.0-beta/jars/libs/open_sdk_r6008_lite.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tianzhijiexian/ShareLoginLib/2.0.0-beta/f2e6273f00e178de0d95618bbd6a245d2503b373/ShareLoginLib-2.0.0-beta-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tianzhijiexian/ShareLoginLib/2.0.0-beta/d87fd830b860ebe170e05f9d4715111a8e582917/ShareLoginLib-2.0.0-beta-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

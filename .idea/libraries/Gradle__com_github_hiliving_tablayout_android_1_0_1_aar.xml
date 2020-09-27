@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.hiliving:tablayout-android:1.0.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/042c11e3c1fe324561bf1ca32193611a/tablayout-android-1.0.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/042c11e3c1fe324561bf1ca32193611a/tablayout-android-1.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/042c11e3c1fe324561bf1ca32193611a/tablayout-android-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/042c11e3c1fe324561bf1ca32193611a/tablayout-android-1.0.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

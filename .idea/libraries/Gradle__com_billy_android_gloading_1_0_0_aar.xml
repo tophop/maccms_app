@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.billy.android:gloading:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/37b8a2a9e3e2a61575a7da3b0bfa0b62/gloading-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/37b8a2a9e3e2a61575a7da3b0bfa0b62/gloading-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/37b8a2a9e3e2a61575a7da3b0bfa0b62/gloading-1.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.billy.android/gloading/1.0.0/b4da9eb7195a1ef13a1b1e426c9eead2e5950ea5/gloading-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.billy.android/gloading/1.0.0/12b7c81cde7b301359d2d0bc716ba5e906c2d471/gloading-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

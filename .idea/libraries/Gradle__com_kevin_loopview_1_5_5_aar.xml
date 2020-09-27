@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.kevin:loopview:1.5.5@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/54c35dc7ada7a4103d5b48eb7b3f2b80/loopview-1.5.5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/54c35dc7ada7a4103d5b48eb7b3f2b80/loopview-1.5.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/54c35dc7ada7a4103d5b48eb7b3f2b80/loopview-1.5.5/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kevin/loopview/1.5.5/9da930876c5b1710adff199182f52eb3a2d02f2a/loopview-1.5.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kevin/loopview/1.5.5/262ee7adefd581625b4e601cabbf4b79975cc886/loopview-1.5.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

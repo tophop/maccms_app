@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: cn.jiajunhui:ijkplayer:335_088_007@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5b93922bf5e826e8894c4bef4ccbdafb/ijkplayer-335_088_007/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5b93922bf5e826e8894c4bef4ccbdafb/ijkplayer-335_088_007/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5b93922bf5e826e8894c4bef4ccbdafb/ijkplayer-335_088_007/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.jiajunhui/ijkplayer/335_088_007/5da2b4386c3f9124025eed98cfcb6c3ad2245331/ijkplayer-335_088_007-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.jiajunhui/ijkplayer/335_088_007/626129847abec47ed79bf47a13acfd3ddd41318d/ijkplayer-335_088_007-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

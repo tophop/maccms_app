@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">追剧猫</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="mzsm">
+        追剧猫
+    </string>
+    <string name="seach_key">搜索 影片、动漫、电视剧</string>
+</resources>

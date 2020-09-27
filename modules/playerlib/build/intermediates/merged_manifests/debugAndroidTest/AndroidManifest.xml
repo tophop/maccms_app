@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.media.playerlib.test" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="26" />
+
+    <instrumentation
+        android:name="android.support.test.runner.AndroidJUnitRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for com.media.playerlib.test"
+        android:targetPackage="com.media.playerlib.test" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:usesCleartextTraffic="true" >
+        <uses-library android:name="android.test.runner" />
+
+        <activity
+            android:name="com.media.playerlib.PlayMainActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@style/Theme.Transparent" >
+        </activity> <!-- <provider -->
+        <!-- android:name="android.support.v4.content.FileProvider" -->
+        <!-- android:authorities="com.yancy.gallerypick.fileprovider" -->
+        <!-- android:exported="false" -->
+        <!-- android:grantUriPermissions="true"> -->
+        <!-- <meta-data -->
+        <!-- android:name="android.support.FILE_PROVIDER_PATHS" -->
+        <!-- android:resource="@xml/filepaths" /> -->
+        <!-- </provider> -->
+        <activity
+            android:name="com.yancy.gallerypick.activity.GalleryPickActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@style/GalleryTheme" />
+        <activity
+            android:name="com.yalantis.ucrop.UCropActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.0.0" />
+
+        <activity
+            android:name="com.allenliu.versionchecklib.core.VersionDialogActivity"
+            android:launchMode="singleTask"
+            android:theme="@style/versionCheckLibvtransparentTheme" />
+
+        <provider
+            android:name="com.allenliu.versionchecklib.core.VersionFileProvider"
+            android:authorities="com.media.playerlib.test.versionProvider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/versionchecklib_file_paths" />
+        </provider>
+
+        <activity
+            android:name="com.allenliu.versionchecklib.core.PermissionDialogActivity"
+            android:launchMode="singleTask"
+            android:theme="@style/versionCheckLibvtransparentTheme" />
+
+        <service
+            android:name="com.allenliu.versionchecklib.core.MyService"
+            android:enabled="true"
+            android:exported="true" />
+        <service
+            android:name="com.allenliu.versionchecklib.v2.ui.VersionService"
+            android:exported="false"
+            android:priority="1000" />
+
+        <activity
+            android:name="com.allenliu.versionchecklib.v2.ui.UIActivity"
+            android:launchMode="singleTask"
+            android:theme="@style/versionCheckLibvtransparentTheme" />
+        <activity
+            android:name="com.allenliu.versionchecklib.v2.ui.DownloadingActivity"
+            android:launchMode="singleTask"
+            android:theme="@style/versionCheckLibvtransparentTheme" />
+        <activity
+            android:name="com.allenliu.versionchecklib.v2.ui.DownloadFailedActivity"
+            android:launchMode="singleTask"
+            android:theme="@style/versionCheckLibvtransparentTheme" />
+
+        <meta-data
+            android:name="android.notch_support"
+            android:value="true" />
+        <meta-data
+            android:name="android.max_aspect"
+            android:value="2.4" /> <!-- PermissonActivity -->
+        <activity
+            android:name="com.lxj.xpermission.XPermission$PermissionActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <provider
+            android:name="android.arch.lifecycle.ProcessLifecycleOwnerInitializer"
+            android:authorities="com.media.playerlib.test.lifecycle-trojan"
+            android:exported="false"
+            android:multiprocess="true" />
+        <provider
+            android:name="com.just.agentweb.AgentWebFileProvider"
+            android:authorities="com.media.playerlib.test.AgentWebFileProvider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/web_files_paths" />
+        </provider>
+
+        <activity
+            android:name="com.just.agentweb.ActionActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="false"
+            android:launchMode="standard"
+            android:theme="@style/actionActivity"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden" >
+        </activity>
+        <activity
+            android:name="com.azhon.appupdate.activity.PermissionActivity"
+            android:label=""
+            android:theme="@style/DialogActivity" />
+
+        <service android:name="com.azhon.appupdate.service.DownloadService" />
+    </application>
+
+</manifest>

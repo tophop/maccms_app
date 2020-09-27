@@ -1,0 +1,278 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.media.playerlib.test" >
+4
+5    <uses-sdk
+5-->E:\0\talentmov-master\modules\playerlib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5236231397834820410.xml:5:5-74
+6        android:minSdkVersion="19"
+6-->E:\0\talentmov-master\modules\playerlib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5236231397834820410.xml:5:15-41
+7        android:targetSdkVersion="26" />
+7-->E:\0\talentmov-master\modules\playerlib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5236231397834820410.xml:5:42-71
+8
+9    <instrumentation
+9-->E:\0\talentmov-master\modules\playerlib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5236231397834820410.xml:11:5-15:74
+10        android:name="android.support.test.runner.AndroidJUnitRunner"
+10-->E:\0\talentmov-master\modules\playerlib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5236231397834820410.xml:11:22-83
+11        android:functionalTest="false"
+11-->E:\0\talentmov-master\modules\playerlib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5236231397834820410.xml:14:22-52
+12        android:handleProfiling="false"
+12-->E:\0\talentmov-master\modules\playerlib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5236231397834820410.xml:13:22-53
+13        android:label="Tests for com.media.playerlib.test"
+13-->E:\0\talentmov-master\modules\playerlib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5236231397834820410.xml:15:22-72
+14        android:targetPackage="com.media.playerlib.test" />
+14-->E:\0\talentmov-master\modules\playerlib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5236231397834820410.xml:12:22-70
+15
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->[__tested_artifact__::modules:playerlib] E:\0\talentmov-master\modules\playerlib\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+16-->[__tested_artifact__::modules:playerlib] E:\0\talentmov-master\modules\playerlib\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-64
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->[__tested_artifact__::modules:playerlib] E:\0\talentmov-master\modules\playerlib\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-79
+17-->[__tested_artifact__::modules:playerlib] E:\0\talentmov-master\modules\playerlib\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-76
+18    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+18-->[__tested_artifact__::modules:playerlib] E:\0\talentmov-master\modules\playerlib\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-76
+18-->[__tested_artifact__::modules:playerlib] E:\0\talentmov-master\modules\playerlib\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:22-73
+19    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+19-->[__tested_artifact__::modules:playerlib] E:\0\talentmov-master\modules\playerlib\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-75
+19-->[__tested_artifact__::modules:playerlib] E:\0\talentmov-master\modules\playerlib\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:22-72
+20    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+20-->[__tested_artifact__::modules:playerlib] E:\0\talentmov-master\modules\playerlib\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-80
+20-->[__tested_artifact__::modules:playerlib] E:\0\talentmov-master\modules\playerlib\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:22-77
+21    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+21-->[__tested_artifact__::modules:playerlib] E:\0\talentmov-master\modules\playerlib\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-81
+21-->[__tested_artifact__::modules:playerlib] E:\0\talentmov-master\modules\playerlib\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:22-78
+22    <uses-permission android:name="android.permission.WAKE_LOCK" />
+22-->[__tested_artifact__::modules:playerlib] E:\0\talentmov-master\modules\playerlib\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-68
+22-->[__tested_artifact__::modules:playerlib] E:\0\talentmov-master\modules\playerlib\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:22-65
+23    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
+23-->[__tested_artifact__::modules:playerlib] E:\0\talentmov-master\modules\playerlib\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:5-86
+23-->[__tested_artifact__::modules:playerlib] E:\0\talentmov-master\modules\playerlib\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:22-83
+24    <uses-permission android:name="android.permission.VIBRATE" />
+24-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:14:5-66
+24-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:14:22-63
+25    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+25-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:15:5-83
+25-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:15:22-80
+26    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+26-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:17:5-77
+26-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:17:22-74
+27
+28    <application
+28-->E:\0\talentmov-master\modules\playerlib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5236231397834820410.xml:7:5-9:19
+29        android:allowBackup="true"
+29-->[com.github.YancyYe:GalleryPick:1.2.1] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\f8706c3936467505c7c31a1962a3ae23\GalleryPick-1.2.1\AndroidManifest.xml:17:9-35
+30        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+30-->[com.android.support:support-compat:28.0.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\b73d0db3c489aeab8b531c92b0313ef9\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+31        android:debuggable="true"
+31-->E:\0\talentmov-master\modules\playerlib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5236231397834820410.xml:7:18-43
+32        android:label="@string/app_name"
+32-->[com.github.alidili:FlowLayout:v1.5] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\cbb44769adbef019d4bee5edbba48d08\FlowLayout-v1.5\AndroidManifest.xml:13:9-41
+33        android:supportsRtl="true"
+33-->[com.github.YancyYe:GalleryPick:1.2.1] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\f8706c3936467505c7c31a1962a3ae23\GalleryPick-1.2.1\AndroidManifest.xml:18:9-35
+34        android:usesCleartextTraffic="true" >
+34-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:22:9-44
+35        <uses-library android:name="android.test.runner" />
+35-->E:\0\talentmov-master\modules\playerlib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5236231397834820410.xml:8:9-60
+35-->E:\0\talentmov-master\modules\playerlib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5236231397834820410.xml:8:23-57
+36
+37        <activity
+37-->[__tested_artifact__::modules:playerlib] E:\0\talentmov-master\modules\playerlib\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:9-27:20
+38            android:name="com.media.playerlib.PlayMainActivity"
+38-->[__tested_artifact__::modules:playerlib] E:\0\talentmov-master\modules\playerlib\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:13-64
+39            android:configChanges="orientation|screenSize|keyboardHidden"
+39-->[__tested_artifact__::modules:playerlib] E:\0\talentmov-master\modules\playerlib\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:13-74
+40            android:launchMode="singleTask"
+40-->[__tested_artifact__::modules:playerlib] E:\0\talentmov-master\modules\playerlib\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:13-44
+41            android:screenOrientation="landscape"
+41-->[__tested_artifact__::modules:playerlib] E:\0\talentmov-master\modules\playerlib\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:13-50
+42            android:theme="@style/Theme.Transparent" >
+42-->[__tested_artifact__::modules:playerlib] E:\0\talentmov-master\modules\playerlib\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:13-53
+43        </activity> <!-- <provider -->
+44        <!-- android:name="android.support.v4.content.FileProvider" -->
+45        <!-- android:authorities="com.yancy.gallerypick.fileprovider" -->
+46        <!-- android:exported="false" -->
+47        <!-- android:grantUriPermissions="true"> -->
+48        <!-- <meta-data -->
+49        <!-- android:name="android.support.FILE_PROVIDER_PATHS" -->
+50        <!-- android:resource="@xml/filepaths" /> -->
+51        <!-- </provider> -->
+52        <activity
+52-->[com.github.YancyYe:GalleryPick:1.2.1] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\f8706c3936467505c7c31a1962a3ae23\GalleryPick-1.2.1\AndroidManifest.xml:30:9-34:51
+53            android:name="com.yancy.gallerypick.activity.GalleryPickActivity"
+53-->[com.github.YancyYe:GalleryPick:1.2.1] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\f8706c3936467505c7c31a1962a3ae23\GalleryPick-1.2.1\AndroidManifest.xml:31:13-78
+54            android:configChanges="orientation|keyboardHidden|screenSize"
+54-->[com.github.YancyYe:GalleryPick:1.2.1] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\f8706c3936467505c7c31a1962a3ae23\GalleryPick-1.2.1\AndroidManifest.xml:32:13-74
+55            android:screenOrientation="portrait"
+55-->[com.github.YancyYe:GalleryPick:1.2.1] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\f8706c3936467505c7c31a1962a3ae23\GalleryPick-1.2.1\AndroidManifest.xml:33:13-49
+56            android:theme="@style/GalleryTheme" />
+56-->[com.github.YancyYe:GalleryPick:1.2.1] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\f8706c3936467505c7c31a1962a3ae23\GalleryPick-1.2.1\AndroidManifest.xml:34:13-48
+57        <activity
+57-->[com.github.YancyYe:GalleryPick:1.2.1] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\f8706c3936467505c7c31a1962a3ae23\GalleryPick-1.2.1\AndroidManifest.xml:35:9-38:72
+58            android:name="com.yalantis.ucrop.UCropActivity"
+58-->[com.github.YancyYe:GalleryPick:1.2.1] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\f8706c3936467505c7c31a1962a3ae23\GalleryPick-1.2.1\AndroidManifest.xml:36:13-60
+59            android:screenOrientation="portrait"
+59-->[com.github.YancyYe:GalleryPick:1.2.1] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\f8706c3936467505c7c31a1962a3ae23\GalleryPick-1.2.1\AndroidManifest.xml:37:13-49
+60            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+60-->[com.github.YancyYe:GalleryPick:1.2.1] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\f8706c3936467505c7c31a1962a3ae23\GalleryPick-1.2.1\AndroidManifest.xml:38:13-69
+61
+62        <meta-data
+62-->[com.android.support:design:26.0.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\d13cb96f9f75da45cbe8fb9b9f3b8a81\design-26.0.0\AndroidManifest.xml:26:9-28:38
+63            android:name="android.support.VERSION"
+63-->[com.android.support:design:26.0.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\d13cb96f9f75da45cbe8fb9b9f3b8a81\design-26.0.0\AndroidManifest.xml:27:13-51
+64            android:value="26.0.0" />
+64-->[com.android.support:design:26.0.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\d13cb96f9f75da45cbe8fb9b9f3b8a81\design-26.0.0\AndroidManifest.xml:28:13-35
+65
+66        <activity
+66-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:23:9-26:71
+67            android:name="com.allenliu.versionchecklib.core.VersionDialogActivity"
+67-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:24:13-83
+68            android:launchMode="singleTask"
+68-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:25:13-44
+69            android:theme="@style/versionCheckLibvtransparentTheme" />
+69-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:26:13-68
+70
+71        <provider
+71-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:28:9-36:20
+72            android:name="com.allenliu.versionchecklib.core.VersionFileProvider"
+72-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:29:13-81
+73            android:authorities="com.media.playerlib.test.versionProvider"
+73-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:30:13-67
+74            android:exported="false"
+74-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:31:13-37
+75            android:grantUriPermissions="true" >
+75-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:32:13-47
+76            <meta-data
+76-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:33:13-35:70
+77                android:name="android.support.FILE_PROVIDER_PATHS"
+77-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:34:17-67
+78                android:resource="@xml/versionchecklib_file_paths" />
+78-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:35:17-67
+79        </provider>
+80
+81        <activity
+81-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:38:9-41:71
+82            android:name="com.allenliu.versionchecklib.core.PermissionDialogActivity"
+82-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:39:13-86
+83            android:launchMode="singleTask"
+83-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:40:13-44
+84            android:theme="@style/versionCheckLibvtransparentTheme" />
+84-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:41:13-68
+85
+86        <service
+86-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:43:9-46:39
+87            android:name="com.allenliu.versionchecklib.core.MyService"
+87-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:44:13-71
+88            android:enabled="true"
+88-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:45:13-35
+89            android:exported="true" />
+89-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:46:13-36
+90        <service
+90-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:47:9-50:39
+91            android:name="com.allenliu.versionchecklib.v2.ui.VersionService"
+91-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:48:13-77
+92            android:exported="false"
+92-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:49:13-37
+93            android:priority="1000" />
+93-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:50:13-36
+94
+95        <activity
+95-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:52:9-55:71
+96            android:name="com.allenliu.versionchecklib.v2.ui.UIActivity"
+96-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:53:13-73
+97            android:launchMode="singleTask"
+97-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:54:13-44
+98            android:theme="@style/versionCheckLibvtransparentTheme" />
+98-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:55:13-68
+99        <activity
+99-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:56:9-59:71
+100            android:name="com.allenliu.versionchecklib.v2.ui.DownloadingActivity"
+100-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:57:13-82
+101            android:launchMode="singleTask"
+101-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:58:13-44
+102            android:theme="@style/versionCheckLibvtransparentTheme" />
+102-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:59:13-68
+103        <activity
+103-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:60:9-63:71
+104            android:name="com.allenliu.versionchecklib.v2.ui.DownloadFailedActivity"
+104-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:61:13-85
+105            android:launchMode="singleTask"
+105-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:62:13-44
+106            android:theme="@style/versionCheckLibvtransparentTheme" />
+106-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:63:13-68
+107
+108        <meta-data
+108-->[com.lxj:xpermission:0.0.2] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\13e5894e43dc5f1ca00cf14975164410\xpermission-0.0.2\AndroidManifest.xml:12:9-14:36
+109            android:name="android.notch_support"
+109-->[com.lxj:xpermission:0.0.2] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\13e5894e43dc5f1ca00cf14975164410\xpermission-0.0.2\AndroidManifest.xml:13:13-49
+110            android:value="true" />
+110-->[com.lxj:xpermission:0.0.2] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\13e5894e43dc5f1ca00cf14975164410\xpermission-0.0.2\AndroidManifest.xml:14:13-33
+111        <meta-data
+111-->[com.lxj:xpermission:0.0.2] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\13e5894e43dc5f1ca00cf14975164410\xpermission-0.0.2\AndroidManifest.xml:15:9-17:35
+112            android:name="android.max_aspect"
+112-->[com.lxj:xpermission:0.0.2] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\13e5894e43dc5f1ca00cf14975164410\xpermission-0.0.2\AndroidManifest.xml:16:13-46
+113            android:value="2.4" /> <!-- PermissonActivity -->
+113-->[com.lxj:xpermission:0.0.2] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\13e5894e43dc5f1ca00cf14975164410\xpermission-0.0.2\AndroidManifest.xml:17:13-32
+114        <activity
+114-->[com.lxj:xpermission:0.0.2] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\13e5894e43dc5f1ca00cf14975164410\xpermission-0.0.2\AndroidManifest.xml:19:9-21:75
+115            android:name="com.lxj.xpermission.XPermission$PermissionActivity"
+115-->[com.lxj:xpermission:0.0.2] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\13e5894e43dc5f1ca00cf14975164410\xpermission-0.0.2\AndroidManifest.xml:20:13-78
+116            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+116-->[com.lxj:xpermission:0.0.2] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\13e5894e43dc5f1ca00cf14975164410\xpermission-0.0.2\AndroidManifest.xml:21:13-72
+117
+118        <provider
+118-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\dd51f51a756baaff7a81d412e9a23414\extensions-1.1.1\AndroidManifest.xml:23:9-27:43
+119            android:name="android.arch.lifecycle.ProcessLifecycleOwnerInitializer"
+119-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\dd51f51a756baaff7a81d412e9a23414\extensions-1.1.1\AndroidManifest.xml:24:13-83
+120            android:authorities="com.media.playerlib.test.lifecycle-trojan"
+120-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\dd51f51a756baaff7a81d412e9a23414\extensions-1.1.1\AndroidManifest.xml:25:13-68
+121            android:exported="false"
+121-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\dd51f51a756baaff7a81d412e9a23414\extensions-1.1.1\AndroidManifest.xml:26:13-37
+122            android:multiprocess="true" />
+122-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\dd51f51a756baaff7a81d412e9a23414\extensions-1.1.1\AndroidManifest.xml:27:13-40
+123        <provider
+123-->[com.just.agentweb:agentweb:4.0.0-alpha-3] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\da398813fdb96e962f9f44135240aead\agentweb-4.0.0-alpha-3\AndroidManifest.xml:15:9-23:20
+124            android:name="com.just.agentweb.AgentWebFileProvider"
+124-->[com.just.agentweb:agentweb:4.0.0-alpha-3] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\da398813fdb96e962f9f44135240aead\agentweb-4.0.0-alpha-3\AndroidManifest.xml:16:13-66
+125            android:authorities="com.media.playerlib.test.AgentWebFileProvider"
+125-->[com.just.agentweb:agentweb:4.0.0-alpha-3] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\da398813fdb96e962f9f44135240aead\agentweb-4.0.0-alpha-3\AndroidManifest.xml:17:13-72
+126            android:exported="false"
+126-->[com.just.agentweb:agentweb:4.0.0-alpha-3] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\da398813fdb96e962f9f44135240aead\agentweb-4.0.0-alpha-3\AndroidManifest.xml:18:13-37
+127            android:grantUriPermissions="true" >
+127-->[com.just.agentweb:agentweb:4.0.0-alpha-3] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\da398813fdb96e962f9f44135240aead\agentweb-4.0.0-alpha-3\AndroidManifest.xml:19:13-47
+128            <meta-data
+128-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:33:13-35:70
+129                android:name="android.support.FILE_PROVIDER_PATHS"
+129-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:34:17-67
+130                android:resource="@xml/web_files_paths" />
+130-->[com.allenliu.versionchecklib:library:2.2.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\265f19dbbfc2f2afe9425c5ae973c2c0\library-2.2.0\AndroidManifest.xml:35:17-67
+131        </provider>
+132
+133        <activity
+133-->[com.just.agentweb:agentweb:4.0.0-alpha-3] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\da398813fdb96e962f9f44135240aead\agentweb-4.0.0-alpha-3\AndroidManifest.xml:25:9-32:20
+134            android:name="com.just.agentweb.ActionActivity"
+134-->[com.just.agentweb:agentweb:4.0.0-alpha-3] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\da398813fdb96e962f9f44135240aead\agentweb-4.0.0-alpha-3\AndroidManifest.xml:26:13-60
+135            android:configChanges="keyboardHidden|orientation|screenSize"
+135-->[com.just.agentweb:agentweb:4.0.0-alpha-3] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\da398813fdb96e962f9f44135240aead\agentweb-4.0.0-alpha-3\AndroidManifest.xml:27:13-74
+136            android:exported="false"
+136-->[com.just.agentweb:agentweb:4.0.0-alpha-3] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\da398813fdb96e962f9f44135240aead\agentweb-4.0.0-alpha-3\AndroidManifest.xml:28:13-37
+137            android:launchMode="standard"
+137-->[com.just.agentweb:agentweb:4.0.0-alpha-3] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\da398813fdb96e962f9f44135240aead\agentweb-4.0.0-alpha-3\AndroidManifest.xml:29:13-42
+138            android:theme="@style/actionActivity"
+138-->[com.just.agentweb:agentweb:4.0.0-alpha-3] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\da398813fdb96e962f9f44135240aead\agentweb-4.0.0-alpha-3\AndroidManifest.xml:30:13-50
+139            android:windowSoftInputMode="stateHidden|stateAlwaysHidden" >
+139-->[com.just.agentweb:agentweb:4.0.0-alpha-3] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\da398813fdb96e962f9f44135240aead\agentweb-4.0.0-alpha-3\AndroidManifest.xml:31:13-72
+140        </activity>
+141        <activity
+141-->[com.azhon:appupdate:2.4.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\1ab810f1f9e19331ee381bd68be17aec\appupdate-2.4.0\AndroidManifest.xml:18:9-21:53
+142            android:name="com.azhon.appupdate.activity.PermissionActivity"
+142-->[com.azhon:appupdate:2.4.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\1ab810f1f9e19331ee381bd68be17aec\appupdate-2.4.0\AndroidManifest.xml:19:13-75
+143            android:label=""
+143-->[com.azhon:appupdate:2.4.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\1ab810f1f9e19331ee381bd68be17aec\appupdate-2.4.0\AndroidManifest.xml:20:13-29
+144            android:theme="@style/DialogActivity" />
+144-->[com.azhon:appupdate:2.4.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\1ab810f1f9e19331ee381bd68be17aec\appupdate-2.4.0\AndroidManifest.xml:21:13-50
+145
+146        <service android:name="com.azhon.appupdate.service.DownloadService" />
+146-->[com.azhon:appupdate:2.4.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\1ab810f1f9e19331ee381bd68be17aec\appupdate-2.4.0\AndroidManifest.xml:23:9-79
+146-->[com.azhon:appupdate:2.4.0] C:\Users\ycg\.gradle\caches\transforms-2\files-2.1\1ab810f1f9e19331ee381bd68be17aec\appupdate-2.4.0\AndroidManifest.xml:23:18-76
+147    </application>
+148
+149</manifest>
